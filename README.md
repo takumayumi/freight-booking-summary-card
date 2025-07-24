@@ -2,7 +2,7 @@
 
 Thank you for the opportunity to complete this take-home assessment. This project addresses **Task 2: UI Component Implementation** as part of the UX/UI Developer application process for Road Central.
 
-## 🧩 Task Overview
+## Task Overview
 
 > **Objective:**  
 > Develop a **responsive** and **accessible** UI component for a freight booking summary card using **HTML/CSS/JS** or a modern framework.
@@ -16,7 +16,7 @@ Thank you for the opportunity to complete this take-home assessment. This projec
 
 ## Live Preview
 
-[View Live Demo](https://your-live-preview-link.com)
+[View Live Demo](https://freight-booking-summary-card.vercel.app/)
 
 ## Repository
 
@@ -39,7 +39,6 @@ Thank you for the opportunity to complete this take-home assessment. This projec
    Tailwind CSS was used to create a layout that adapts seamlessly from mobile to desktop breakpoints.
 
 3. **Accessibility**
-
    - Used semantic tags: `<section>`, `<button>`, `<dl>` for structured data
    - Buttons include `aria-label`s for screen readers
    - All interactive elements are focusable and keyboard-friendly
