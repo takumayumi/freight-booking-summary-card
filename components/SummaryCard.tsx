@@ -94,14 +94,14 @@ export default function SummaryCard() {
           <button
             type="button"
             onClick={handleEditToggle}
-            className="border-border text-text hover:text-foreground/80 hover:borer-foreground/80 border-2"
+            className="border-border text-text hover:text-foreground/80 hover:border-foreground/80 border-2"
             aria-pressed={isEditing}
           >
             {isEditing ? "Cancel" : "Edit"}
           </button>
           <button
             type="submit"
-            className="bg-primary text-surface hover:text-foreground/80 hover:bg-primary/60"
+            className="bg-primary text-background hover:text-foreground hover:bg-primary/60"
           >
             Confirm
           </button>
