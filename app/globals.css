@@ -4,7 +4,7 @@
   --background: #ffffff;
   --foreground: #171717;
 
-  --green-primary: oklch(65% 0.08 140);
+  --green-primary: oklch(50% 0.08 140);
   --green-surface: oklch(92% 0.015 140);
   --green-accent: oklch(80% 0.04 140);
   --green-border: oklch(85% 0.025 140);
